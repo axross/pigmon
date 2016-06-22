@@ -1,0 +1,30 @@
+{
+  "name": "pigmon",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axross/pigmon.git"
+  },
+  "author": "axross <me@axross.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axross/pigmon/issues"
+  },
+  "homepage": "https://github.com/axross/pigmon#readme",
+  "devDependencies": {
+    "autoprefixer": "6.3.6",
+    "csswring": "5.0.0",
+    "gulp": "3.9.1",
+    "gulp-cli": "1.2.1",
+    "gulp-plumber": "1.1.0",
+    "gulp-postcss": "6.1.1",
+    "gulp-rename": "1.2.2",
+    "gulp-sourcemaps": "1.6.0",
+    "gulp-stylus": "2.5.0"
+  }
+}
